@@ -6,21 +6,21 @@ Tenho mais de 10 anos de experiência no ramo de automação comercial, suporte 
 Conhecimentos na área de QA:
 - Conhecimento básico em linguagens de programação Java, C#, lógica de programação e Algoritmo.
 - Banco de dados relacionais (SQL Server e MySQL (DML/DDL/DQL))
-- Testes Funcionais Manuais
-- Testes de Regressão
-- Testes de usabilidade
-- Testes de aceitação do usuário (Alpha/Beta).
-- Testes Exploratórios
+- Teste de interface do usuário (UI) - (Testes Funcionais Manuais, Testes de Regressão, Testes de usabilidade, Testes de aceitação do usuário (Alpha/Beta), Testes Exploratórios)
 - Planejamento e elaboração de casos/cenários de testes
 - Modelagem de testes - BDD
 - Reportar bugs (JIRA)
 - JMeter - Testes de performance
 - Robot Framework básico
 - Selenium IDE
+- Automação de teste utilizando ferramenta SIKULI
+- Conhecimento em Teste APIs Rest utilizando as ferramentas (Insomnia e Postman) - Introdução Teste API Rest (Júlio de Lima)
 
 Estudando automação de testes:
-- (cursando) BDD com Cucumber em JAVA
-- (cursando) Testes funcionais com Selenium WebDriver
-- (cursando) API Rest com REST-assured
-- (cursando) Testes funcionais de aplicações Android com Appium
-- (cursando) Automação de Testes com Robot Framework (avançado)
+-Automação de Teste com Selenium WebDriver e Java
+
+Métodos ágeis:
+- Scrum
+- Jira
+
+Sou comunicativo e detalhista.
