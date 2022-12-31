@@ -1,7 +1,6 @@
-SobreSobre
-▶Graduado em Gestão da Tecnologia da Informação.
-▶Pós Graduado/MBA em Gestão da Qualidade de Software.
-▶Formado no Programa de Teste e Qualidade de Software - PTQS (Júlio de Lima).
+▶Graduado em Gestão da Tecnologia da Informação.<br />
+▶Pós Graduado/MBA em Gestão da Qualidade de Software.<br />
+▶Formado no Programa de Teste e Qualidade de Software - PTQS (Júlio de Lima).<br />
 
 - Experiência em linguagens de programação Java, C#, lógica de programação e Algoritmo.
 - Vivência em banco de dados relacionais (SQL Server, Oracle, e MySQL) | SQL = (DML/DDL/DQL)
